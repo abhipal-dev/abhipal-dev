@@ -1,6 +1,3 @@
-## Hi there 👋
-
----
 
 ```markdown
 # Hi there, I'm Abhishek Pal 👋
