@@ -1,5 +1,3 @@
-
-```markdown
 # Hi there, I'm Abhishek Pal 👋
 
 <p align="center">
@@ -8,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/abhipal-dev?tab=repositories"><img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Mobile-blue?style=flat-square" alt="Focus"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://lazyeye.onrender.com"><img src="https://img.shields.io/badge/Live%20Platform-LazyEye-059669?style=flat-square&logo=render" alt="LazyEye Demo"></a>
 </p>
 
@@ -42,7 +40,7 @@
 ---
 
 ### 📬 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com)
+- 💼 LinkedIn: [linkedin.com](https://linkedin.com)
 - 🌐 Live Demo: [https://lazyeye.onrender.com](https://lazyeye.onrender.com)
 - 📧 Email: abhipal85350@gmail.com
-```
+
